@@ -117,7 +117,7 @@ right connector from last child*/
   width: 0;
   height: 20px;
 }
-.tree li a {
+.tree li span {
   border: 1px solid #ccc;
   padding: 5px 10px;
   text-decoration: none;

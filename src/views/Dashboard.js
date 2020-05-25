@@ -6,7 +6,7 @@ import {
     Row,
 } from 'reactstrap';
 
-import {Treinamento} from '../genetica/ProgramacaoGenetica'
+import {Treinamento} from '../genetica/Treinamento'
 
 var SmoothieComponent = require('react-smoothie').default;
 
