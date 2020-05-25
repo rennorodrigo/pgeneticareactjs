@@ -30,11 +30,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Gerando Função
 Gráfico que acompanha a curva em tempo real da função de aprendizagem.
-![alt text](https://github.com/rennorodrigo/pgeneticareactjs/tree/master/public/2020-05-25_18-34.png)
+![alt text](https://raw.githubusercontent.com/rennorodrigo/pgeneticareactjs/master/public/2020-05-25_18-34.png)
 
 ### Gerando Árvore da Função
 Árvore gerada pela função de aprendizagem.
-![alt text](https://github.com/rennorodrigo/pgeneticareactjs/tree/master/public/2020-05-25_18-35.png)
+![alt text](https://raw.githubusercontent.com/rennorodrigo/pgeneticareactjs/master/public/2020-05-25_18-35.png)
 
 ## Mais
 
