@@ -28,6 +28,14 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### Gerando Função
+Gráfico que acompanha a curva em tempo real da função de aprendizagem.
+![alt text](https://github.com/rennorodrigo/pgeneticareactjs/tree/master/public/2020-05-25_18-34.png)
+
+### Gerando Árvore da Função
+Árvore gerada pela função de aprendizagem.
+![alt text](https://github.com/rennorodrigo/pgeneticareactjs/tree/master/public/2020-05-25_18-35.png)
+
 ## Mais
 
 Para saber mais acesse [Programação genética em react js](https://linuxever.com/implementacao-de-algoritmo-programacao-genetica-com-react-js/).
