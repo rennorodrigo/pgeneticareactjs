@@ -1,5 +1,5 @@
 Este projeto é um Algoritmo Genético que utiliza Árvore Sintáticas de operações matemáticas para descobrir a função de uma determinada série. 
-Para saber mais acesse: [Programação genética React JS](https://linuxever.com/implementacao-de-algoritmo-programacao-genetica-com-react-js/).
+Para saber mais acesse: [Programação genética React JS](https://linuxever-2b066.web.app/).
 
 ## Scripts de inicialização
 
@@ -38,6 +38,6 @@ Gráfico que acompanha a curva em tempo real da função de aprendizagem.
 
 ## Mais
 
-Para saber mais acesse [Programação genética em react js](https://linuxever.com/implementacao-de-algoritmo-programacao-genetica-com-react-js/).
+Para saber mais acesse [Programação genética em react js](https://linuxever-2b066.web.app/).
 O projeto foi criado para fins de estudo e não pode ser usado para fins comerciais sem autorização.
 
